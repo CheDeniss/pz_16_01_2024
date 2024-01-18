@@ -1,0 +1,16 @@
+.container-top{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 20px;
+}
+
+.container-bottom{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.img-item{
+    height: 100px;
+    margin-right: 30px;
+}
